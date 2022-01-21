@@ -114,7 +114,7 @@
 > FFmpeg
 
 ```bash
-git clone github.com/kursadHD/TgMusicBot.git
+git clone github.com/Vusaldi/TgMusicBot.git
 cd TgMusicBot
 mv config.env.example config.env
 nano config.env # edit your config file
