@@ -122,7 +122,7 @@ pip(3) install -r requirements.txt -U
 python(3) main.py
 ```
 ### On Heroku 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vusaldi/TgMusicBot)
+[![Deploy To Heroku](https://www.heroku.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vusaldi/TgMusicBot)
 
 ## Config Vars 
 VARIABLE | DESCRIPTION | REQUIRED/OPTIONAL
